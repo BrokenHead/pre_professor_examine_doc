@@ -9,9 +9,9 @@ searching client data from database to make word document (.docx) for examine hi
 
 ## sample / how it use
 
-<img width="250" src="https://github.com/BrokenHead/pre_professor_examine_doc/assets/37082529/dc9cc697-fd53-4e6f-ac7d-7117baebe7e9">
-<img width="250" src="https://github.com/BrokenHead/pre_professor_examine_doc/assets/37082529/98756eb8-8709-49fd-8add-ff7ce8290c2a">
-<img width="250" src="https://github.com/BrokenHead/pre_professor_examine_doc/assets/37082529/e4baaadd-37c8-4e82-8bb7-cdba41f4fa78">
+<img width="200" src="https://github.com/BrokenHead/pre_professor_examine_doc/assets/37082529/dc9cc697-fd53-4e6f-ac7d-7117baebe7e9">
+<img width="300" src="https://github.com/BrokenHead/pre_professor_examine_doc/assets/37082529/98756eb8-8709-49fd-8add-ff7ce8290c2a">
+<img width="300" src="https://github.com/BrokenHead/pre_professor_examine_doc/assets/37082529/e4baaadd-37c8-4e82-8bb7-cdba41f4fa78">
 
 1. login with your Username and Password if don't have it, contact Computer officer (Admin)
 2. checking D:\พิมพ์ลายนิ้วมือเอกสารเปล่า.docx or paste this file because this is empty .docx for filling
